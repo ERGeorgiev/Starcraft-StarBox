@@ -8,7 +8,6 @@ The mod was originally named "Unit Test Lab", and like all my mods scores a high
 With the help of this I managed to earn a high diamond in the competitive ranks with an estimated win ratio of 90%.
 ## Features
 The mod allows players to test unit compositions for competitive play.
-It features:
 
 | Gameplay Features |
 | --- |
