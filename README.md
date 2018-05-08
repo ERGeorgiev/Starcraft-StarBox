@@ -2,6 +2,10 @@
 Mod named StarBox for testing unit compositions.
 
 Created with Blizzard Entertainment's Starcraft 2 Galaxy Editor.
+
+The mod was originally named "Unit Test Lab", and like all my mods scores a high grade in the battle.net arcade. I have done my best to make sure there are no bugs, but I have not fully tested multiplayer compatibility so I strongly recommend you only use the mode for single-player testing. The command button menu should be enough to provide for a good test, otherwise an AI can be implemented that can simulate a pro player.
+
+With the help of this I managed to earn a high diamond in the competitive ranks with an estimated win ratio of 90%.
 ## Features
 The mod allows players to test unit compositions for competitive play.
 It features:
