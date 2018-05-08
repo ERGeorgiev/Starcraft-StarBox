@@ -1,5 +1,6 @@
 # StarBox
 Mod named StarBox for testing unit compositions.
+
 Created with Blizzard Entertainment's Starcraft 2 Galaxy Editor.
 ## Features
 The mod allows players to test unit compositions for competitive play.
