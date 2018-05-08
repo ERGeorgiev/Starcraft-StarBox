@@ -1,8 +1,15 @@
 # StarBox
 ![Welcome](images/Welcoming.jpg)
 
-Mod named StarBox for testing unit compositions. 
+Mod named StarBox for testing unit compositions.
 Created with Blizzard Entertainment's Starcraft 2 Galaxy Editor.
+## Features
+The mod allows players to test unit compositions for competitive play.
+It features:
+|Features|
+|---|
+|Terrain|||
+
 ## How to Use
 Run the Galaxy Editor and open the file, it should work.
 ## Where to Find
@@ -32,3 +39,6 @@ It is only localized in English.
 ![Resources](images/Help7.1.jpg)
 
 These and more are available in-game.
+## Future
+I won't be updating the mod further. The last update I made was in 2016, but since it has untouched dependencies it should more or less update itself. 
+Anyone is free to further develop the mod.
