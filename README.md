@@ -8,7 +8,7 @@ The mod allows players to test unit compositions for competitive play.
 It features:
 |Features|
 |---|
-|Terrain|||
+|Terrain|
 
 ## How to Use
 Run the Galaxy Editor and open the file, it should work.
