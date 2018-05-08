@@ -7,9 +7,23 @@ Created with Blizzard Entertainment's Starcraft 2 Galaxy Editor.
 The mod allows players to test unit compositions for competitive play.
 It features:
 
-| Features |
+| Gameplay Features |
 | --- |
-| Terrain || h |
+| Different Testing Terrain |
+| Competitive Map Portion |
+| Unit Count Tracker|
+| Unit Upgrades |
+| Advanced Options |
+| Resource Tracking |
+| Amazing GUI |
+
+| Trigger Features |
+| --- |
+| Building a database from existing catalog |
+| Manipulating the tech tree |
+| Advanced dialog system |
+| Unit position mirroring relative to terrain |
+| Many other |
 
 ## How to Use
 Run the Galaxy Editor and open the file, it should work.
