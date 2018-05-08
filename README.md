@@ -1,5 +1,6 @@
 # StarBox
 ![Welcome](images/Welcoming.jpg)
+
 Mod named StarBox for testing unit compositions. 
 Created with Blizzard Entertainment's Starcraft 2 Galaxy Editor.
 ## How to Use
@@ -29,4 +30,5 @@ It is only localized in English.
 ### Resource Table
 ![Resources](images/Help7.jpg)
 ![Resources](images/Help7.1.jpg)
+
 These and more are available in-game.
