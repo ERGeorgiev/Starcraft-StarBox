@@ -6,9 +6,10 @@ Created with Blizzard Entertainment's Starcraft 2 Galaxy Editor.
 ## Features
 The mod allows players to test unit compositions for competitive play.
 It features:
-|Features|
-|---|
-|Terrain|
+
+| Features |
+| --- |
+| Terrain |
 
 ## How to Use
 Run the Galaxy Editor and open the file, it should work.
