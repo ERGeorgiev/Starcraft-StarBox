@@ -9,7 +9,7 @@ It features:
 
 | Features |
 | --- |
-| Terrain |
+| Terrain || h |
 
 ## How to Use
 Run the Galaxy Editor and open the file, it should work.
