@@ -56,4 +56,5 @@ It is only localized in English.
 These and more are available in-game.
 ## Future
 I won't be updating the mod further. The last update I made was in 2016, but since it has untouched dependencies it should more or less update itself. 
+
 Anyone is free to further develop the mod.
