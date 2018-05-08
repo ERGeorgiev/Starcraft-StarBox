@@ -1,6 +1,4 @@
 # StarBox
-![Welcome](images/Welcoming.jpg)
-
 Mod named StarBox for testing unit compositions.
 Created with Blizzard Entertainment's Starcraft 2 Galaxy Editor.
 ## Features
